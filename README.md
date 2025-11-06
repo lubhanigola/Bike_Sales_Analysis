@@ -99,7 +99,7 @@ The dataset includes:
 
 **Visuals & Insights:**  
 - 📊 **Bar Chart – Sales by Country:** Reveals top-performing countries in terms of total revenue.  
-- 🍩 **Donut Chart – Profit by Continent:** Highlights that **Pacific** contributes the highest profit share.  
+- 🍩 **Donut Chart – Profit by Continent:** Highlights that **North America** contributes the highest profit share.  
 - 📈 **Line Chart – Quarterly Cost:** Tracks fluctuations in cost and identifies low-margin quarters.  
 - 🎯 **Sync Slicers – Year, Month, Category:** Allow quick comparison between time periods and categories.  
 
