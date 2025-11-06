@@ -13,23 +13,23 @@ All preprocessing was handled in **Power Query** inside Power BI.
 I resolved issues like incorrect data types, missing values, inconsistent formats, and redundant fields using Power Query transformations.
 
 **Key steps:**
-- Converted fields into correct data types (Date, Number, Text).  
-- Replaced nulls and blanks with appropriate values.  
-- Used conditional columns to fix inconsistent attributes.  
-- Appended multi-year sales tables into a unified dataset.  
-- Standardized column naming for modeling consistency.  
-- Validated data using Column Profiling tools.
+- Converted fields into correct data types (Date, Number, Text)  
+- Replaced nulls and blanks with appropriate values  
+- Used conditional columns to fix inconsistent attributes  
+- Appended multi-year sales tables into a unified dataset  
+- Standardized column naming for modeling consistency  
+- Validated data using Column Profiling tools  
 
 This ensured a **clean, optimized dataset** ready for modeling.
 
 ---
 
 ## 💡 Power BI Challenges  
-- Designing a proper **Star Schema** data model.  
-- Creating a **dynamic Date Table** for time intelligence.  
-- Implementing **sync slicers** across all dashboards.  
-- Using **drill-through** and **bookmarks** for a smooth navigation experience.  
-- Designing **four dashboards** that are visually consistent and performance-optimized.  
+- Designing a proper **Star Schema** data model  
+- Creating a **dynamic Date Table** for time intelligence  
+- Implementing **sync slicers** across all dashboards  
+- Using **drill-through** and **bookmarks** for smooth navigation  
+- Designing **four dashboards** that are visually consistent and performance-optimized  
 
 ---
 
@@ -45,11 +45,11 @@ This Power BI project delivers actionable insights to support data-driven decisi
 ---
 
 ## 🎯 Project Objectives  
-- Clean and transform raw datasets using **Power Query**.  
-- Build a robust **data model** with relationships.  
-- Create **four analytical dashboards** for Sales, Geography, Returns, and Customer Insights.  
-- Use **DAX** to build KPIs and advanced calculations (MTD, growth, ratios).  
-- Enable intuitive navigation through **sync slicers**, bookmarks, and drill-through.
+- Clean and transform raw datasets using **Power Query**  
+- Build a robust **data model** with relationships  
+- Create **four analytical dashboards** for Sales, Geography, Returns, and Customer Insights  
+- Use **DAX** to build KPIs and advanced calculations (MTD, growth, ratios)  
+- Enable intuitive navigation through **sync slicers**, bookmarks, and drill-through  
 
 ---
 
@@ -92,16 +92,16 @@ The dataset includes:
 ## 🧭 1. Performance Overview Dashboard  
 
 **KPIs:**  
-- Total Sales – **24.94M**  
+- Total Sales – **$24.94M**  
 - Total Orders – **56K**  
 - Quantity Sold – **84K**  
-- Net Profit – **10.46M**
+- Net Profit – **$10.46M**
 
-**Visuals:**  
-- Bar Chart – Sales by Country  
-- Donut Chart – Profit by Continent  
-- Line Chart – Quarterly Cost  
-- Sync Slicers – Year, Month, Category  
+**Visuals & Insights:**  
+- 📊 **Bar Chart – Sales by Country:** Reveals top-performing countries in terms of total revenue.  
+- 🍩 **Donut Chart – Profit by Continent:** Highlights that **Pacific** contributes the highest profit share.  
+- 📈 **Line Chart – Quarterly Cost:** Tracks fluctuations in cost and identifies low-margin quarters.  
+- 🎯 **Sync Slicers – Year, Month, Category:** Allow quick comparison between time periods and categories.  
 
 **📸 Dashboard Preview:**  
 ![Performance Overview](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Performance%20Overview.png)  
@@ -111,11 +111,11 @@ The dataset includes:
 
 ## 🗺️ 2. Map Visual Dashboard  
 
-**Key Features:**  
-- Interactive **Map Visual** for country-level sales analysis  
-- **Drill-through** linked with “Sales by Country”  
-- Selecting any country updates the Map instantly  
-- **Reset Button + Bookmark Navigation** for smooth exploration  
+**Key Features & Insights:**  
+- 🗺️ **Interactive Map Visual:** Visualizes country-wise sales density across continents.  
+- 💬 **Drill-through (Sales by Country):** Lets you dive deeper into specific country performance.  
+- 🔄 **Bookmark Navigation:** Enhances dashboard interactivity for region-based analysis.  
+- 🎛️ **Sync Slicers:** Seamlessly filter all visuals by time or geography.  
 
 **📸 Dashboard Preview:**  
 ![Map Visual](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Map%20Visual.png)  
@@ -127,15 +127,15 @@ The dataset includes:
 
 **KPIs:**  
 - Total Returns – **1,809**  
-- Net Sales – **24.15M**  
+- Net Sales – **$24.15M**  
 - Distinct Products – **130**  
 - Return Rate – **3.23%**
 
-**Visuals:**  
-- Funnel Chart – Products Sold by Country  
-- Column Chart – Top 5 Products by Return Quantity  
-- Quarterly Return Rate  
-- Sync Slicers – Region, Product Size, Subcategory  
+**Visuals & Insights:**  
+- 🔽 **Funnel Chart – Products Sold by Country:** Displays sales conversion rate across different countries.  
+- 📊 **Column Chart – Top 5 Products by Return Quantity:** Identifies the most frequently returned products.  
+- 📆 **Quarterly Return Rate:** Shows product performance trends over quarters to track quality issues.  
+- 🎚️ **Sync Slicers – Region, Product Size, Subcategory:** Enable quick segmentation and filtering.  
 
 **📸 Dashboard Preview:**  
 ![Product & Returns Insights](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Products%20%26%20Returns%20Insights.png)  
@@ -148,16 +148,16 @@ The dataset includes:
 **KPIs:**  
 - Distinct Customers – **17K**  
 - Rebuy Rate – **86.64%**  
-- Avg Spent – **1.43K**  
+- Avg Spent – **$1.43K**  
 - Avg Orders per Customer – **3.22**
 
-**Visuals:**  
-- Heatmap – Monthly Return Rate  
-- Gauge Chart – Target vs Current Customers  
-- Clustered Column Chart – Sales vs Returns by Continent  
-- Table – Monthly Rebuy Rate  
-- MTD Customer Growth (using CALCULATE + DATESMTD)  
-- Sync Slicers – Year, Country  
+**Visuals & Insights:**  
+- 🌡️ **Heatmap – Monthly Return Rate:** Highlights seasonal spikes in product returns.  
+- 🎯 **Gauge Chart – Target vs Current Customers:** Measures customer growth against set goals.  
+- 📊 **Clustered Column Chart – Sales vs Returns by Continent:** Compares revenue with associated returns region-wise.  
+- 📋 **Table – Monthly Rebuy Rate:** Tracks customer loyalty through repeat purchases.  
+- ⏳ **MTD Customer Growth (DAX Measure):** Shows month-to-date progress in customer acquisition.  
+- 🔄 **Sync Slicers – Year, Country:** Simplifies cross-year and country-specific analysis.  
 
 **📸 Dashboard Preview:**  
 ![Customer Insights](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Customer%20Insight.png)  
@@ -188,8 +188,6 @@ The dataset includes:
 
 ---
 
-## 📚 Data Source  
+## 📚 Raw Data Link
 📁 **Google Drive Dataset:**  
-https://drive.google.com/drive/folders/1GMzn-fdT5zsWwqcGjhEcbs-HNXMUM-Li?usp=drive_link
-
----
+[Click to Access Dataset](https://drive.google.com/drive/folders/1GMzn-fdT5zsWwqcGjhEcbs-HNXMUM-Li?usp=drive_link)
