@@ -73,11 +73,10 @@ The dataset includes:
 
 ## 📂 Explore Full Projects  
 
-**🚴‍♀️ Power BI Dashboard:**  
-[Bike Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiMWY3NGM3MDgtZDQ0Yy00NWU5LTg3YjYtZjE0MTZmMTY5MDgzIiwidCI6ImRlMzJkOTNlLTRlMjgtNDhlNS1hMDI3LTExOTQ2NDAzZTNhYyJ9)  
+**🚴‍♀️ Power BI Dashboard:**[Bike Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiMWY3NGM3MDgtZDQ0Yy00NWU5LTg3YjYtZjE0MTZmMTY5MDgzIiwidCI6ImRlMzJkOTNlLTRlMjgtNDhlNS1hMDI3LTExOTQ2NDAzZTNhYyJ9)  
 
-**Google Drive Dataset:** 
-[Click to Access Dataset](https://drive.google.com/drive/folders/1GMzn-fdT5zsWwqcGjhEcbs-HNXMUM-Li?usp=drive_link) ---
+**Google Drive Dataset:** [Click to Access Dataset](https://drive.google.com/drive/folders/1GMzn-fdT5zsWwqcGjhEcbs-HNXMUM-Li?usp=drive_link) 
+---
 
 ---
 
