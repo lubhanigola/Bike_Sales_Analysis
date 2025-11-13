@@ -72,6 +72,11 @@ The dataset includes:
 - 📆 Time-based components  
 
 ---
+## 📂 Explore Project  
+📦 **Download the PBIX File:**  
+[Bike Analysis.pbix](https://app.powerbi.com/view?r=eyJrIjoiMWY3NGM3MDgtZDQ0Yy00NWU5LTg3YjYtZjE0MTZmMTY5MDgzIiwidCI6ImRlMzJkOTNlLTRlMjgtNDhlNS1hMDI3LTExOTQ2NDAzZTNhYyJ9
+power bi project link)
+---
 
 ## 🗂️ Data Modeling  
 
@@ -81,8 +86,6 @@ The dataset includes:
 
 **📸 Data Modeling Preview:**  
 ![Data Modeling](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Data%20Modeling.png)  
-🔗 [View Data Model](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Data%20Modeling.png)
-
 ---
 
 # ✨ Dashboards  
@@ -105,8 +108,6 @@ The dataset includes:
 
 **📸 Dashboard Preview:**  
 ![Performance Overview](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Performance%20Overview.png)  
-🔗 [View Dashboard](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Performance%20Overview.png)
-
 ---
 
 ## 🗺️ 2. Map Visual Dashboard  
@@ -119,8 +120,6 @@ The dataset includes:
 
 **📸 Dashboard Preview:**  
 ![Map Visual](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Map%20Visual.png)  
-🔗 [View Dashboard](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Map%20Visual.png)
-
 ---
 
 ## 📦 3. Product & Returns Insights Dashboard  
@@ -139,8 +138,6 @@ The dataset includes:
 
 **📸 Dashboard Preview:**  
 ![Product & Returns Insights](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Products%20%26%20Returns%20Insights.png)  
-🔗 [View Dashboard](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Products%20%26%20Returns%20Insights.png)
-
 ---
 
 ## 👥 4. Customer Insights Dashboard  
@@ -161,8 +158,6 @@ The dataset includes:
 
 **📸 Dashboard Preview:**  
 ![Customer Insights](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Customer%20Insight.png)  
-🔗 [View Dashboard](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Customer%20Insight.png)
-
 ---
 
 ## 📈 Key Insights  
@@ -181,10 +176,6 @@ The dataset includes:
 - Built a fully interactive multi-page analytical solution  
 
 ---
-
-## 📂 Explore Project  
-📦 **Download the PBIX File:**  
-[Bike Analysis.pbix](https://github.com/lubhanigola/Bike_Sales_Analysis/blob/main/Screenshots/Bike%20Analysis.pbix)
 
 ---
 
