@@ -73,8 +73,9 @@ The dataset includes:
 
 ---
 ## 📂 Explore Project  
-📦 **View the PBIX File:**  
-👉 [Bike Analysis.pbix](https://app.powerbi.com/view?r=eyJrIjoiMWY3NGM3MDgtZDQ0Yy00NWU5LTg3YjYtZjE0MTZmMTY5MDgzIiwidCI6ImRlMzJkOTNlLTRlMjgtNDhlNS1hMDI3LTExOTQ2NDAzZTNhYyJ9)
+
+**📦 View the PBIX File:**  
+👉 [Bike Analysis.pbix](https://app.powerbi.com/view?r=eyJrIjoiMWY3NGM3MDgtZDQ0Yy00NWU5LTg3YjYtZjE0MTZmMTY5MDgzIiwidCI6ImRlMzJkOTNlLTRlMjgtNDhlNS1hMDI3LTExOTQ2NDAzZTNhYyJ9)  
 ---
 
 ## 🗂️ Data Modeling  
