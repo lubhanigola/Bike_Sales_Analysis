@@ -1,4 +1,4 @@
-# 🚴‍♀️ Bike Sales Analysis Dashboard – End-to-End Power BI Project  
+# 🚴‍♀️ Bike Sales Analysis – End-to-End Power BI Project  
 
 ## 💭 Why I Chose This Dataset  
 The **Bike Sales dataset** represents a realistic retail analytics scenario, helping analyze customer demographics, product performance, sales trends, and returns.  
